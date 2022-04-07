@@ -1,4 +1,3 @@
-## Eu sou o Paulo Ricardo
 - *Cursando o 3° Período da Ciência da Computação*
 
 <div align="center">
