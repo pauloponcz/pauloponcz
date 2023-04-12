@@ -1,4 +1,4 @@
-- *Cursando o 3° Período da Ciência da Computação*
+- *Cursando o 5° Período da Ciência da Computação*
 
 <div align="center">
   <a href="https://github.com/pauloponcz">
